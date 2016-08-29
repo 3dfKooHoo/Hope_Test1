@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6a41183a1bee6b14d882912c2ebdcad6
 folderAsset: yes
 timeCreated: 1472454237
+=======
+guid: 86a5b1f5b53634240b1e8c161f637c71
+folderAsset: yes
+timeCreated: 1472454484
+>>>>>>> Ajis
 licenseType: Free
 DefaultImporter:
   userData: 
